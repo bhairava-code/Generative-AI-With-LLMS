@@ -1,0 +1,16 @@
+virtual-env/
+venv/
+.venv/
+
+__pycache__/
+*.py[cod]
+
+.ipynb_checkpoints/
+
+.env
+.env.*
+!.env.example
+
+dist/
+build/
+*.egg-info/
